@@ -29,19 +29,19 @@
 /* Cores */
 
 .cor1{
-    color:#6400b0
+    color:#6400b0;
 }
 .cor2{
-    color:#db00bd
+    color:#db00bd;
 }
 .cor3{
-    color: #2207a3
+    color: #2207a3;
 }
 .cor4{
-    color: #9a1fa5
+    color: #9a1fa5;
 }
 .cor5{
-    color: #ff008a
+    color: #ff008a;
 }
 
 /* Displey */
@@ -69,14 +69,52 @@
 .pequena{
     width: 33%;
 }
+
+/* Botões */
 .btn-indigo {
     color: #fff; /* Cor do texto do botão */
     background-color: #6366f1; /* Cor de fundo */
     border-color: #6366f1; /* Cor da borda */
-  }
+}
   
-  .btn-indigo:hover {
+.btn-indigo:hover {
     color: #fff; /* Cor do texto ao passar o mouse */
     background-color: #4f46e5; /* Cor de fundo ao passar o mouse */
     border-color: #4f46e5; /* Cor da borda ao passar o mouse */
-  }
+}
+
+/* Footer */
+.footer {
+    background-color: #343a40; /* Cor de fundo escura */
+    color: white; /* Cor do texto */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer h5 {
+    font-family: 'Arial Black', sans-serif;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.footer p {
+    font-family: 'Arial', sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+.footer .text-center {
+    border-top: 1px solid #495057;
+    padding-top: 15px;
+    font-size: 0.8rem;
+}
+
+.footer .container {
+    max-width: 1200px;
+}
+
+@media (max-width: 768px) {
+    .footer .row {
+        text-align: center;
+    }
+}
