@@ -118,3 +118,12 @@
         text-align: center;
     }
 }
+.custom-button {
+    background-color: #4f46e5; /* Cor de fundo desejada */
+    border-color: #4f46e5;     /* Cor da borda */
+}
+
+.custom-button:hover {
+    background-color: #4942d7; /* Cor de fundo ao passar o mouse */
+    border-color: #4942d7;     /* Cor da borda ao passar o mouse */
+}
