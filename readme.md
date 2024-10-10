@@ -2,13 +2,15 @@
 <h1 align="center"> SPHERE </h1>
 
 ![imagem de capa](assets/img%20readme/SPHERE.png)
+## Status
+:construction: ⚙ Projeto em construção ⚙ :contruction:
 **Descrição:**
 A SPHERE é um aplicativo de divulgação de eventos culturais da cidade de itapeva-SP. Dentro da plataforma os úsuarios podem navegar, descobrir e divulgar novos eventos.
 ## Índice
-- Funcionalidades
-- Tecnologias Utilizadas
-- Autores
-- Licença
+* [Funcionalidades] (#Funcionalidades)
+* [Tecnologias_Utilizadas] (#Tecnologias Utilizadas)
+* [Autores] (#Autores)
+* [Licença] (#Licença)
 ## Funcionalidades (SOMENTE PROTÓTIPO)
 - Listar as principais funcionalidades do projeto, como:
  - Pesquisar: Pesquisar eventos pela localização, categoria e datas.
